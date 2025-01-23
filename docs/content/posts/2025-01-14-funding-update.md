@@ -30,4 +30,4 @@ since we'll need a port there) and would like to also sponsor us, please reach
 out at <team@pluralkit.me> :​)
 
 we're hoping to get everything set up in the new datacenter and the bot moved
-over towards end of february / beginning of march. we'll let you know!
+over towards end of february / beginning of march. lol we'll let you know!
